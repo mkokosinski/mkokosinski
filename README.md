@@ -4,4 +4,4 @@
 - ✨ I recommend checking out my last project: E-widencja: [Demo](https://mkokosinski.github.io/e-widencja/) | [Code](https://github.com/mkokosinski/e-widencja)
 - 📫 How to reach me: mkokosinski91@gmail.com
 - 👀 I’m interested in front-end technologies
-- 🌱 I’m currently learning nextjs and gatsbyjs
+- 🌱 I’m currently learning nextjs
